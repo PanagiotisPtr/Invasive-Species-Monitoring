@@ -1,0 +1,1 @@
+Get the 'best_model.json' and 'best_weights.hdf5' files from here: https://drive.google.com/drive/folders/0B3yMyQUKTcSveTN6OFJEa2lYbXc?usp=sharing
